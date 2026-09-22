@@ -326,6 +326,23 @@ The development roadmap consists of three phases:
 
 ---
 
+## Timeline Overview
+
+```
+June 2026                                             March 2027
+|====== Phase 1 ======|====== Phase 2 ======|====== Phase 3 ======|
+Network Foundation    Content & Balance    Competitive Polish
+                     ↑                    ↑
+              Oct 15: 40+ tests    Dec 15: 100+ tests
+                     ↑                    ↑
+              Dec 15: Maps ready    Feb 1: QA Complete
+
+v0.2 Prototype                          v1.0 Multiplayer Release
+                                        + Esports-Ready Infrastructure
+```
+
+---
+
 ## Success Criteria (v1.0)
 
 ### Real-Time Multiplayer PvP
@@ -381,4 +398,3 @@ By March 2027, Tlatonai v1.0 will launch as a fully-featured, esports-ready mult
 **Target Launch:** March 2027 (v1.0)  
 **Concurrent Player Support:** 2–8 per match; 1000+ total online players  
 **Regional Infrastructure:** NA, EU, APAC servers with <50ms latency targets
- 
